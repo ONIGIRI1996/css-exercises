@@ -14,6 +14,6 @@ This will help you further practice adding classes and using class selectors, so
 
 ### Self Check
 
-- Does each element have a unique class name? Yes I called them black-button and yellow-button.
-- Did you use the grouping selector for styles that both elements share?
-- Did you make separate rules for the styles unique to each element?
+- Does each element have a unique class name? Answer: Yes I called them black-button and yellow-button.
+- Did you use the grouping selector for styles that both elements share? Answer: Yes
+- Did you make separate rules for the styles unique to each element? Answer: Yes
