@@ -1,0 +1,25 @@
+.same{
+    background-color: rgb(256, 164, 164);
+    font-size: 35px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#numbertwo{
+    color: #0000ff;;
+    font-size:60px;
+    font-family: verdana;
+    font-weight: bold;
+}
+
+.size{
+    font-size: 63px;
+}
+
+
+#numberfour{
+    background-color: hsl(120, 100%, 75%);
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+
